@@ -12,5 +12,6 @@
     prefers-color-scheme
 
     Accessability
+        use fieldset and legend for forms
      - Correct heading structure
      - Alt text for images
